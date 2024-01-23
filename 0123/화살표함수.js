@@ -25,3 +25,5 @@ sum();
 //중괄호 생략가능
 //코드가 한줄일 경우
 var sum = () => console.log("안녕하세요!");
+sssss
+sadasd
